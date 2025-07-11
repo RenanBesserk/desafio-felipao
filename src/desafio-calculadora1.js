@@ -1,6 +1,6 @@
 let heroi = "Felipao"
 let nivel
-let xp = 8072
+let xp = 5001
 
 // só acho que o felipao joga valorant
 
